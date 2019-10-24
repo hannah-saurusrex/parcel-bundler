@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/main.scss"],"names":[],"mappings":"AAEA,KACI,kBAHE,CAIF,aAGJ,IACI,YAAA,CACA","file":"src.e16b5543.css","sourceRoot":"../src","sourcesContent":["$sup: lightgray;\n\nbody {\n    background: $sup;\n    height: 200vh;\n}\n\nimg {\n    height: 300px;\n    width: 600px;\n}"]}
